@@ -16,6 +16,6 @@ macro_rules! my_macro {
 }
 
 fn main() {
-    my_macro!();
-    my_macro!(7777);
+	my_macro!();
+	my_macro!(7777);
 }
